@@ -1,0 +1,78 @@
+body{
+background-color: rgb(252, 169, 252);
+}
+
+nav{
+background-color: rgb(170, 6, 252);
+height: 50px;
+}
+nav ul li{
+font-family: Arial, Helvetica;
+float: left;
+list-style: none;
+margin: 10px;
+line-height: 30px;
+
+}
+
+nav li a{
+
+text-decoration: none;
+color: black;
+}
+
+#content{
+
+float: left;
+width: 80%;
+min-height: 500px;
+background: rgb(247, 250, 247);
+
+}
+
+aside{
+float: center;
+width: 150px
+margin:0px auto;
+padding: 15px
+
+}
+
+footer{
+background-color: rgb(93, 3, 138);
+width: 80%;
+margin: 0px;
+display: grid;
+padding: auto;
+}
+
+.pie{
+color: white;
+list-style: none;
+
+}
+.redes h2{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+    
+.sociales{
+text-align: center;
+}
+.sociales li{
+display: inline-block;
+}
+.sociales a{
+padding: 10%;
+}
+
+
+
+.redes{
+    padding-left: 15%;
+    float: left;
+}
+
+
+
